@@ -2,8 +2,9 @@
 # Hi there 👋
 
 
-Hi there! I'm a grade 10 student with a passion for exploring technology, and this is a condensed version of my website. The full version can be found at https://www.param.me.
+Hi there! I'm a grade 10 student with a passion for exploring technology!
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=paramt&count_private=true)
 
 
 ## Projects
