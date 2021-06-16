@@ -25,7 +25,7 @@ These are just some of my highlighted projects. You can find a complete list of 
 | February 2019:  MemeAdviser |
 | :--- |
 | A reddit bot that analyzes the market at [r/MemeEconomy](https://www.reddit.com/r/MemeEconomy) and provides insightful information |
-| [Website](https://www.1pt.co) &#124; [GitHub](https://github.com/paramt/1pt) &#124; Python |
+| [Website](https://www.param.me/MemeAdviser) &#124; [GitHub](https://github.com/paramt/MemeAdviser) &#124; Python |
 
 | December 2018: 1-Point |
 | :--- |
