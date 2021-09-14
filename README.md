@@ -35,7 +35,7 @@ These are just some of my highlighted projects. You can find a complete list of 
 
 ## Links
 [Email](mailto:contact@param.me) |
-[Resume](https://www.param.me/resume) |
+[Resume](https://www.param.me/resume) 
 
 [<img src="https://image.flaticon.com/icons/svg/181/181535.svg" width=40 align=center>](mailto://contact@param.me) &nbsp;
 [<img src="https://image.flaticon.com/icons/svg/145/145807.svg" width=40 align=center>](https://www.linkedin.com/in/paramt/) &nbsp;
