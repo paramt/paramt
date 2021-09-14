@@ -10,6 +10,11 @@ Hi there! I'm a grade 12 student with a passion for exploring technology!
 ## Projects
 These are just some of my highlighted projects. You can find a complete list of projects [here](https://github.com/paramt/projects).
 
+| April 2021: 1-Point |
+| :--- |
+| A dynamic URL shortener capable of pointing users to different destinations based on various factors |
+| [Website](https://www.1pt.co) &#124; [GitHub](https://github.com/paramt/1pt) &#124; PHP |
+
 | August 2020:  Deathmatch |
 | :--- |
 | A Minecraft plugin that creates a minigame for players to gather resources and battle it out |
@@ -27,10 +32,6 @@ These are just some of my highlighted projects. You can find a complete list of 
 | A reddit bot that analyzes the market at [r/MemeEconomy](https://www.reddit.com/r/MemeEconomy) and provides insightful information |
 | [Website](https://www.param.me/MemeAdviser) &#124; [GitHub](https://github.com/paramt/MemeAdviser) &#124; Python |
 
-| December 2018: 1-Point |
-| :--- |
-| A dynamic URL shortener capable of pointing users to different destinations based on various factors |
-| [Website](https://www.1pt.co) &#124; [GitHub](https://github.com/paramt/1pt) &#124; PHP |
 
 ## Links
 [Email](mailto:contact@param.me) |
