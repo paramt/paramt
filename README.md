@@ -4,9 +4,6 @@
 
 Hi there! I'm a CS student @ UWaterloo with a passion for exploring technology!
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=paramt&count_private=true)
-
-
 ## Projects
 These are just some of my highlighted projects. You can find a complete list of projects [here](https://github.com/paramt/projects).
 
